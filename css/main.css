@@ -3126,3 +3126,20 @@
 				}
 
 	}
+
+	.facePicture {
+		background: #4eb980;
+		border-radius: 100%;
+		color: #ffffff;
+		cursor: default;
+		display: inline-block;
+		font-size: 2.25em;
+		height: 3.4em;
+		line-height: 2.35em;
+		margin: 0 0 0.75em 0;
+		text-align: center;
+		width: 3.4em;
+		background-image: url(images/my-face.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
